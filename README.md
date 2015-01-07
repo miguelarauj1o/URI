@@ -1,6 +1,3 @@
-URI Online Judge
-====================================
-
 ![URI](https://dl.dropboxusercontent.com/u/49713288/URI.png)
 
 #### THE URI ONLINE JUDGE
