@@ -1,11 +1,8 @@
 #include <cstdio>
+#include <cmath>
 #include <cstring>
-#include <vector>
-#include <set>
-#include <map>
-#include <algorithm>
 
-#define EPS 1e-5
+#define EPS 1e-7
 #define PI (acos(-1))
 #define INF 999999999
 #define ST first
@@ -13,17 +10,17 @@
 #define MP make_pair
 #define PB push_back
 
-#define _ printf("\n");
 #define SC1(n) scanf("%d", &n);
 #define SC2(a, b) scanf("%d %d", &a);
 #define SC3(a, b, c) scanf("%d %d %d", &a, &b, &c);
+#define SC4(a, b, c, d) scanf("%d %d %d %d", &a, &b, &c, &d);
 #define SIZE(a) ((int)((a).size()))
 #define VAR(a,b) __typeof(b) a=(b)
 #define ZERO(x) memset(x, 0, sizeof(x))
 #define CLEAR(x, a) memset(x, a, sizeof(x))
 #define FOR(i, n) for(int i = 0; i < (n); ++i)
 #define REP(i, a, b) for (int i = (a); i < (b); ++i)
-#define isLetter(ch) (((ch) >= 'A' && (ch) <= 'Z') || ((ch) >= 'a' && (ch) <= 'z'))
+#define isLetter(c) (((c) >= 'A' && (c) <= 'Z') || ((c) >= 'a' && (c) <= 'z'))
 
 using namespace std;
 
