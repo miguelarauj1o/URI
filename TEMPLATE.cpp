@@ -10,10 +10,10 @@
 #define MP make_pair
 #define PB push_back
 
-#define SC1(n) scanf("%d", &n);
-#define SC2(a, b) scanf("%d %d", &a);
-#define SC3(a, b, c) scanf("%d %d %d", &a, &b, &c);
-#define SC4(a, b, c, d) scanf("%d %d %d %d", &a, &b, &c, &d);
+#define SC1(n) scanf("%d", &n)
+#define SC2(a, b) scanf("%d %d", &a)
+#define SC3(a, b, c) scanf("%d %d %d", &a, &b, &c)
+#define SC4(a, b, c, d) scanf("%d %d %d %d", &a, &b, &c, &d)
 #define SIZE(a) ((int)((a).size()))
 #define VAR(a,b) __typeof(b) a=(b)
 #define ZERO(x) memset(x, 0, sizeof(x))
