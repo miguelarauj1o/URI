@@ -1,6 +1,10 @@
 #include <cstdio>
 #include <cmath>
 #include <cstring>
+#include <set>
+#include <vector>
+#include <map>
+#include <stack>
 
 #define EPS 1e-7
 #define PI (acos(-1))
@@ -24,9 +28,10 @@
 
 using namespace std;
 
+typedef set<int> SI;
 typedef vector<int> VI;
 typedef pair<int,int> PII;
-typedef set<int> SI;
+typedef stack<int> SI;
 typedef long long int LLI;
 typedef long long LL;
 typedef long double LD;
