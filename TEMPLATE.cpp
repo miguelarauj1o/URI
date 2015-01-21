@@ -10,8 +10,8 @@
 #define MP make_pair
 #define PB push_back
 
-#define SC1(n) scanf("%d", &n)
-#define SC2(a, b) scanf("%d %d", &a)
+#define SC1(a) scanf("%d", &a)
+#define SC2(a, b) scanf("%d %d", &a, &b)
 #define SC3(a, b, c) scanf("%d %d %d", &a, &b, &c)
 #define SC4(a, b, c, d) scanf("%d %d %d %d", &a, &b, &c, &d)
 #define SIZE(a) ((int)((a).size()))
