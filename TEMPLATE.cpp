@@ -8,11 +8,14 @@
 
 #define EPS 1e-7
 #define PI (acos(-1))
-#define INF 999999999
 #define ST first
 #define ND second
 #define MP make_pair
 #define PB push_back
+#define INFINITY
+#define HUGE_VAL
+#define HUGE_VALF
+#define HUGE_VALL
 
 #define SC1(a) scanf("%d", &a)
 #define SC2(a, b) scanf("%d %d", &a, &b)
