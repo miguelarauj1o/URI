@@ -20,7 +20,7 @@
 #define MP make_pair
 #define PB push_back
 #define EPS 1e-9
-#define PI (acos(-1))
+#define PI 3.141592654
 #define INF 0x3f3f3f3f
 #define LINF 0x3f3f3f3f3f3f3f3fLL
 
