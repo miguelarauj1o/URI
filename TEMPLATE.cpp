@@ -3,7 +3,7 @@
 #include <iostream>
 #include <algorithm>
 #include <cmath>
-
+#include <iomanip>
 #include <string>
 #include <cstdlib>
 #include <vector>
@@ -53,6 +53,12 @@ typedef unsigned long long ULL;
 #ifndef ONLINE_JUDGE 
    // URI flag, code inside here will be not processed
 #endif
+
+template <class T> string toStr(const T &x)
+{ stringstream s; s << x; return s.str(); }
+
+template <class T> int toInt(const T &x)
+{ stringstream s; s << x; int r; s >> r; return r; }
 
 int main(int argc, char const *argv[])
 {
