@@ -10,6 +10,13 @@ It is a beautiful place to spend your time learning. Look at me [here]!.
 
 > __Try solve first before read any code here! ;)__
 
+----
+
+to compile , run the command line below :
+
+````
+g++ -lm file.cpp
+````
 
 [URI Online Judge]: https://www.urionlinejudge.com.br/judge/login
 [here]: https://www.urionlinejudge.com.br/judge/pt/profile/18554
