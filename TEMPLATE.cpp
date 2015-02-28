@@ -9,7 +9,6 @@
 #include <iomanip>
 #include <string>
 #include <sstream>
-
 #include <utility>
 #include <vector>
 #include <queue>
@@ -17,6 +16,8 @@
 #include <list>
 #include <map>
 #include <set>
+
+#define _CRT_SECURE_NO_DEPRECATE //suppress some compilation warning messages
 
 #define F first
 #define S second
