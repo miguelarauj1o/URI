@@ -37,7 +37,7 @@ typedef long long 		ll;
 typedef list<int> 		li;
 typedef stack<int> 		si;
 typedef vector<int> 	vi;
-typedef pair<int, int> 	ii;
+typedef pair<int, int>	ii;
 typedef vector<ii>		vii;
 
 using namespace std;
