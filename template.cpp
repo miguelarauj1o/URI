@@ -26,8 +26,9 @@ using namespace std;
 #define sc2(a,b) scanf("%d %d", &a, &b)
 #define sc3(a,b,c) scanf("%d %d %d", &a, &b, &c)
 #define sc4(a,b,c,d) scanf("%d %d %d %d", &a, &b, &c, &d)
-#define clear(x, a) memset(x, a, sizeof x)
-#define for(i,a,n) for(int (i) = (a); (i) < (n); (i)++)
+#define clear(x,a) memset(x, a, sizeof x)
+#define fr(i,a,n) for(int i = (a); i < (n); i++)
+#define fe(i,a,n) for(int i = (a); i <= (n); i++)
 #define isLetter(c) (((c) >= 'A' && (c) <= 'Z') || ((c) >= 'a' && (c) <= 'z'))
 
 typedef vector<int> vi;
