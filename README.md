@@ -1,6 +1,6 @@
-"The [URI Online Judge] is a project that is being developed by the CS Department of URI University. The __main goal__ of the project is to provide programming practice and knowledge sharing." It is a beautiful place to spend your time learning. Look at me [here]!.
+"The [URI Online Judge] is a project that is being developed by the CS Department of URI University. The main goal of the project is to provide programming practice and knowledge sharing." It is a beautiful place to spend your time learning. Look at me [here]!.
 
->Try solve first before read any code here!
+__Try solve first before read any code here!__
 
 ----
 
