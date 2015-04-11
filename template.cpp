@@ -23,14 +23,14 @@ using namespace std;
 #define mp make_pair
 #define pb push_back
 #define sc1(a) scanf("%d", &a)
-#define sc2(a,b) scanf("%d %d", &a, &b)
-#define sc3(a,b,c) scanf("%d %d %d", &a, &b, &c)
-#define sc4(a,b,c,d) scanf("%d %d %d %d", &a, &b, &c, &d)
-#define clear(x,a) memset(x, a, sizeof x)
-#define fr(i,a,n) for(int i = (a); i < (n); i++)
-#define fe(i,a,n) for(int i = (a); i <= (n); i++)
+#define sc2(a, b) scanf("%d%d", &a, &b)
+#define sc3(a, b, c) scanf("%d%d%d", &a, &b, &c)
+#define clear(x, a) memset(x, a, sizeof x)
+#define fr(i, a, n) for(int i = (a); i < (n); i++)
+#define fe(i, a, n) for(int i = (a); i <= (n); i++)
 #define isLetter(c) (((c) >= 'A' && (c) <= 'Z') || ((c) >= 'a' && (c) <= 'z'))
 
+typedef queue<int> qi;
 typedef vector<int> vi;
 typedef stack<int> si;
 typedef pair<int,int> ii;
