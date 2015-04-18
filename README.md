@@ -1,4 +1,6 @@
-"The [URI Online Judge] is a project that is being developed by the CS Department of URI University. The main goal of the project is to provide programming practice and knowledge sharing." It is a beautiful place to spend your time learning. Look at me [here]!.
+"The [URI Online Judge] is a project that is being developed by the CS Department of URI University. The main goal of the project is to provide programming practice and knowledge sharing."
+
+Perfect place for a novice programmer learn competitive programming :horse_racing:. Look at me [here]!.
 
 __Try solve first before read any code here!__
 
