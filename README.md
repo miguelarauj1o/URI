@@ -14,3 +14,6 @@ at the top.
 [MIT] © [Miguel Araújo](http://github.com/miguelarauj1o)
 
 [MIT]: https://github.com/miguelarauj1o/URI/blob/master/LICENSE
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/miguelarauj1o/uri/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
