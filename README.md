@@ -1,9 +1,16 @@
 # URI Online Judge
 
-URI Online Judge | __Code Library__
+URI Online Judge | __Problem Solutions__
 
-###### Licence
+## About
 
-[MIT License]
+Here are all my solutions for problems that I've solved on URI Online Judge.
+Almost all of them in C++, but you can find some solution in Java or C or Python.
+BTW, you can find me on URI Online Judge just clicking a link next description,
+at the top.
 
-[MIT License]: http://opensource.org/licenses/MIT
+## Licence
+
+[MIT] © [Miguel Araújo](http://github.com/miguelarauj1o)
+
+[MIT]: https://github.com/miguelarauj1o/URI/blob/master/LICENSE
