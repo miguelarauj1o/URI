@@ -1,8 +1,5 @@
-*.o
-*.a
-*.out
-*.app
-code.cpp
-*.txt
-Main.java
+.DS_Store
+Main*
 *.class
+*.out
+*.txt
