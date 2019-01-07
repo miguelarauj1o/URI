@@ -1,0 +1,1 @@
+SELECT CAST(AVG(products.price) AS NUMERIC(15,2)) AS price FROM products;
